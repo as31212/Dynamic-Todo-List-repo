@@ -1,5 +1,5 @@
 #TODO list
-this is a website that allows for one to create a simple TODO list by dynamically creating entires.
+this is a website that allows for one to create a simple TODO list by dynamically creating entries.
 The features included within the entries are as follows
 *delete button
 *text box for entry title and description
